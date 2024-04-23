@@ -14,5 +14,5 @@
 <li>"Edit" - изменить контакт</li>
   <p><img src="./images/edit.png" width="30%"/><p>
 <li>"Delete" - удалить контакт</li>
-  <p><img src="./images/delete.png" width="30%"/><p>
+  <p><img src="./images/delete.png" width="40%"/><p>
 <p>

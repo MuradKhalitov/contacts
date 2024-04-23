@@ -6,7 +6,7 @@
  
 Интерфейс приложения: 
 <li>"http://localhost:8080/contacts/" - главная страница</li>
-  <p><img src="./images/start-page.png" width="80%"/><p>
+  <p><img src="./images/start-page.png" width="50%"/><p>
 <li>Для добавлегия нового контакста переходим по ссылке "Add Contact"</li>
   <p><img src="./images/add-contact.png" width="50%"/><p>
 <li> Для сохранения нажимаем кнопку "Save"</li>
